@@ -1,100 +1,108 @@
 [
 	{	"pageTitle": "Index",
 		"relativePagePath": "/en/"
-	},    
-	{
-		"pageTitle": "Intro",
-		"relativePagePath": "/intro.html"
 	},
 	{
-		"pageTitle": "Second Content",
-		"relativePagePath": "/intro/second-content.html"
+		"pageTitle": "Architecture Overview",
+		"relativePagePath": "/architecture.html"
 	},
 	{
-		"pageTitle": "First Content",
-		"relativePagePath": "/intro/first-content.html"
+		"pageTitle": "Overview",
+		"relativePagePath": "/architecture/overview.html"
+	},
+	{
+		"pageTitle": "E2e",
+		"relativePagePath": "/architecture/e2e.html"
+	},
+	{
+		"pageTitle": "Model",
+		"relativePagePath": "/architecture/model.html"
+	},
+	{
+		"pageTitle": "CDK Introduction",
+		"relativePagePath": "/cdk.html"
 	},
 	{
 		"pageTitle": "Basics",
-		"relativePagePath": "/basics.html"
+		"relativePagePath": "/cdk/basics.html"
 	},
 	{
-		"pageTitle": "Requirements",
-		"relativePagePath": "/basics/requirements.html"
+		"pageTitle": "Awsworkshop",
+		"relativePagePath": "/cdk/awsworkshop.html"
 	},
 	{
-		"pageTitle": "Installation",
-		"relativePagePath": "/basics/installation.html"
+		"pageTitle": "Environment Setup",
+		"relativePagePath": "/environment.html"
 	},
 	{
-		"pageTitle": "Configuration",
-		"relativePagePath": "/basics/configuration.html"
+		"pageTitle": "Initcdk",
+		"relativePagePath": "/environment/initcdk.html"
 	},
 	{
-		"pageTitle": "Content",
-		"relativePagePath": "/cont.html"
+		"pageTitle": "Dependency",
+		"relativePagePath": "/environment/dependency.html"
 	},
 	{
-		"pageTitle": "Pages Organization",
-		"relativePagePath": "/cont/pages.html"
+		"pageTitle": "Instance",
+		"relativePagePath": "/environment/instance.html"
 	},
 	{
-		"pageTitle": "Archetypes",
-		"relativePagePath": "/cont/archetypes.html"
+		"pageTitle": "Model Deploy Flow",
+		"relativePagePath": "/model.html"
 	},
 	{
-		"pageTitle": "Markdown Syntax",
-		"relativePagePath": "/cont/markdown.html"
+		"pageTitle": "Cdk",
+		"relativePagePath": "/model/cdk.html"
 	},
 	{
-		"pageTitle": "Icons and Logos",
-		"relativePagePath": "/cont/icons.html"
+		"pageTitle": "Test",
+		"relativePagePath": "/model/test.html"
 	},
 	{
-		"pageTitle": "Multilingual and i18n",
-		"relativePagePath": "/cont/i18n.html"
+		"pageTitle": "Endpoint",
+		"relativePagePath": "/model/endpoint.html"
 	},
 	{
-		"pageTitle": "Shortcodes",
-		"relativePagePath": "/shortcodes.html"
+		"pageTitle": "Config",
+		"relativePagePath": "/model/config.html"
 	},
 	{
-		"pageTitle": "Attachments",
-		"relativePagePath": "/shortcodes/attachments.html"
+		"pageTitle": "Model",
+		"relativePagePath": "/model/model.html"
 	},
 	{
-		"pageTitle": "Button",
-		"relativePagePath": "/shortcodes/button.html"
+		"pageTitle": "Container",
+		"relativePagePath": "/model/container.html"
 	},
 	{
-		"pageTitle": "Children",
-		"relativePagePath": "/shortcodes/children.html"
-	},    
-	{
-		"pageTitle": "Expand",
-		"relativePagePath": "/shortcodes/expand.html"
+		"pageTitle": "ML End-to-end Flow",
+		"relativePagePath": "/end-to-end-flow.html"
 	},
 	{
-		"pageTitle": "Image",
-		"relativePagePath": "/shortcodes/img.html"
+		"pageTitle": "Test",
+		"relativePagePath": "/end-to-end-flow/test.html"
 	},
 	{
-		"pageTitle": "Notice",
-		"relativePagePath": "/shortcodes/notice.html"
+		"pageTitle": "Sns",
+		"relativePagePath": "/end-to-end-flow/sns.html"
 	},
 	{
-		"pageTitle": "Site param",
-		"relativePagePath": "/shortcodes/siteparam.html"
+		"pageTitle": "Dynamodb",
+		"relativePagePath": "/end-to-end-flow/dynamodb.html"
 	},
 	{
-		"pageTitle": "Site URL",
-		"relativePagePath": "/shortcodes/siteurl.html"
+		"pageTitle": "Lambda",
+		"relativePagePath": "/end-to-end-flow/lambda.html"
 	},
 	{
-		"pageTitle": "Launch",
-		"relativePagePath": "/launch.html"
+		"pageTitle": "Apigw",
+		"relativePagePath": "/end-to-end-flow/apigw.html"
 	},
 	{
-		"pageTitle": "Metadata",
-		"relativePagePath": "/launch/metadata.html"
+		"pageTitle": "S3",
+		"relativePagePath": "/end-to-end-flow/s3.html"
+	},
+	{
+		"pageTitle": "QA",
+		"relativePagePath": "/qa.html"
 	}]
